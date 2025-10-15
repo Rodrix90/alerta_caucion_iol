@@ -1,0 +1,12 @@
+﻿# Sensibles
+.env
+
+# Estado/temporales
+*.json
+__pycache__/
+*.pyc
+logs/
+
+# Entornos
+.venv/
+venv/
